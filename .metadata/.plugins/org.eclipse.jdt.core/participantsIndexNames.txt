@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+F:\ccCodes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1906111840.index
+\News\src
+F:\ccCodes\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\831619455.index
+\News\src
