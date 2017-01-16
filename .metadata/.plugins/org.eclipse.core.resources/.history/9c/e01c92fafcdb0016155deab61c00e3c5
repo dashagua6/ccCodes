@@ -1,0 +1,5 @@
+package com.hisoft.biz;
+
+public interface IBusinessService {
+
+}
